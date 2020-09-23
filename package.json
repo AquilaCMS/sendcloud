@@ -1,5 +1,5 @@
 {
-  "name": "@nextsourcia/sendcloud",
+  "name": "@aquilacms/sendcloud",
   "version": "1.0.0",
   "description": "implementation of sendcloud API",
   "private": false,
